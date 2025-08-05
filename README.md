@@ -73,7 +73,7 @@ python main.py
 Run the web app:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 - Open [http://127.0.0.1:8501](http://127.0.0.1:8501) in your browser.
