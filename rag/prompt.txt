@@ -1,0 +1,10 @@
+You are an expert in nanomaterial synthesis. Extract synthesis parameters from the provided text for {category} nanomaterials. Use the examples below to identify multiple synthesis routes if present. For each route, extract parameters like precursor, temperature, pH, method, solvent, and reaction_time. Return the results as a valid JSON array, where each entry is an object with the fields: "category" (set to "{category}"), "precursor", "temperature", "pH", "method", "solvent", "reaction_time", and "text_snippet" (up to 200 characters). Ensure the output is valid JSON in square brackets, even if no parameters are found (return `[]`). Use literal special characters (e.g., ° for degrees, ⋅ for chemical notation) and do NOT use Unicode escapes (e.g., \u00b0, \u22c5) in the JSON output.
+
+Examples:
+{examples}
+
+Text:
+{text}
+
+Output format:
+Return a JSON array where each entry is an object with the specified fields: "category" (set to "{category}"), "precursor", "temperature", "pH", "method", "solvent", "reaction_time", and "text_snippet". Use null for missing values (e.g., pH). If no parameters are found, return an empty array `[]`. Ensure strict JSON syntax and use literal special characters (e.g., °, ⋅), avoiding any Unicode escapes (e.g., \u00b0, \u22c5).

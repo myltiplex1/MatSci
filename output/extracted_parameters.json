@@ -1,0 +1,132 @@
+[
+    {
+        "category": "Metal Oxides",
+        "precursor": "Hexamethylenetetramine (HMTA, C6H12N4) and Zinc nitrate (Zn(NO3)2)",
+        "temperature": "100-120 °C",
+        "pH": "7.5-8.5",
+        "method": "hydrothermal",
+        "solvent": "water",
+        "reaction_time": "4-16 hours",
+        "text_snippet": "ZnO nanocrystals synthesized by adjusting reaction parameters (e.g., temperature, reaction time, precursor concentration, additives, and pH of the solution)."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "Zinc acetate dihydrate (Zn(CH3COO)22H2O), sodium hydroxide (NaOH)",
+        "temperature": "300 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "deionized water",
+        "reaction_time": null,
+        "text_snippet": "ZnO was synthesized by using sodium hydroxide (NaOH), Zinc acetate dihydrate (Zn(CH3COO)22H2O), and deionized water utilized as the solvent."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "CuCl22H2O, C18H29NaO3S",
+        "temperature": "120 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "distilled water",
+        "reaction_time": "24 hours",
+        "text_snippet": "The synthesis of CuO crystals was attempted using CuCl22H2O and C18H29NaO3S. This process lasted approximately 24h under continuous heating, around 120 °C."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "copper (II) acetate monohydrate (Cu(CH3COO)2H2O), ammonia solution (NH3H2O), sodium hydroxide (NaOH)",
+        "temperature": "180 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "distilled water",
+        "reaction_time": "24 hours",
+        "text_snippet": "Additionally, CuO was synthesized through a hydrothermal method utilizing ammonia solution (NH3H2O), copper (II) acetate monohydrate (Cu(CH3COO)2H2O), and sodium hydroxide (NaOH)."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "FeCl36H2O, NaH2PO4",
+        "temperature": "240 °C",
+        "pH": "4.5",
+        "method": "hydrothermal",
+        "solvent": null,
+        "reaction_time": "multiple hours",
+        "text_snippet": "Fe2O3 has been meticulously synthesized from FeCl36H2O and NaH2PO4. The mixture was then placed in a hydrothermal reactor and heated to about 240 °C for multiple hours."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "urea (H2NCONH2), iron (III) nitrate nonahydrate (Fe(NO3)39H2O)",
+        "temperature": "140 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "distilled water",
+        "reaction_time": "12 hours",
+        "text_snippet": "Also, Fe2O3 was synthesized by using urea (H2NCONH2) and iron (III) nitrate nonahydrate (Fe(NO3)39H2O). The resultant mixture was afterward stored in an autoclave and subjected to hydrothermal reaction at 140 °C for 12h."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "Cd(NO3)2, KOH",
+        "temperature": "260 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "distilled water",
+        "reaction_time": "24 hours",
+        "text_snippet": "CdO has been synthesized from Cd(NO3)2 and KOH, where Cd(NO3)2 was used as an effective source of Cd. Then, the resulting mixture was placed in an autoclave bottle for 24h for hydrothermal reaction at about 260 °C."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "cadmium nitrate tetrahydrate (Cd(NO3)24H2O), polyethylene Glycol (PEG)",
+        "temperature": "180 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "deionized water",
+        "reaction_time": "24 hours",
+        "text_snippet": "Also, CdO was synthesized using cadmium nitrate tetrahydrate (Cd(NO3)24H2O) and polyethylene Glycol (PEG). The reactor's temperature was sustained at about 180 °C for 24h."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "titanium foil",
+        "temperature": "130-180 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": null,
+        "reaction_time": "1-12 hours",
+        "text_snippet": "In a study, TiO2 was synthesized using the hydrothermal method at 180 °C, with titanium (Ti) foil as the precursor. The process was optimized by varying temperature (130 °C to 180 °C) and duration (1h to 12h)."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "(NH4)2CO3, Al(NO3)39H2O",
+        "temperature": "100 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "deionized water",
+        "reaction_time": "24-36 hours",
+        "text_snippet": "Al2O3 nanomaterial was synthesized via the hydrothermal method using (NH4)2CO3 and Al(NO3)39H2O, and deionized water was used as a solvent. The mixture was then heated at 100 °C for either 24 or 36h"
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "Al(NO3)39H2O, C6H5(NH4)3O72H2O",
+        "temperature": "170-230 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "deionized water",
+        "reaction_time": "5-48 hours",
+        "text_snippet": "In another study, Al2O3 was synthesized through a reaction involving Al(NO3)39H2O and C6H5(NH4)3O72H2O as precursors. The reaction occurred by heating at 170 °C to 230 °C for 5h, 15h, 24h, and 48h, respectively."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "CaO powder, hexadecyltrimethylammonium bromide (CTAB, C16H33N(CH3)3Br)",
+        "temperature": "160-240 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "deionized water",
+        "reaction_time": "24-72 hours",
+        "text_snippet": "Nanostructure CaO is synthesized from CaO powder and hexadecyltrimethylammonium bromide (CTAB, C16H33N(CH3)3Br). The mixed solution was subjected to ultrasonically stirring for 24h, then placed in an autoclave for hydrothermal reaction at either 160 °C for 72h or 240 °C for 24h."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "Ca(NO3)29H2O, NaOH, KCl",
+        "temperature": "180 °C",
+        "pH": null,
+        "method": "hydrothermal",
+        "solvent": "deionized water",
+        "reaction_time": "12 hours",
+        "text_snippet": "In another study, CaO was synthesized by reacting Ca(NO3)29H2O and NaOH. The resulting mixture was then subjected to a heat treatment at 180 °C for 12h"
+    }
+]

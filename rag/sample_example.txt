@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Metal Oxides",
+        "precursor": "Zinc nitrate",
+        "temperature": "500°C",
+        "pH": "7.0",
+        "method": "Hydrothermal",
+        "solvent": "Water",
+        "reaction_time": "12 hours",
+        "text_snippet": "ZnO nanoparticles were synthesized via hydrothermal method using zinc nitrate in water at 500°C and pH 7.0 for 12 hours."
+    },
+    {
+        "category": "Metal Oxides",
+        "precursor": "Titanium isopropoxide",
+        "temperature": "450°C",
+        "pH": "6.5",
+        "method": "Sol-gel",
+        "solvent": "Ethanol",
+        "reaction_time": "6 hours",
+        "text_snippet": "TiO2 was prepared by sol-gel method with titanium isopropoxide in ethanol at 450°C and pH 6.5 for 6 hours."
+    },
+    {
+        "category": "Metal Sulfides",
+        "precursor": "Cadmium acetate",
+        "temperature": "200°C",
+        "pH": "Not specified",
+        "method": "Solvothermal",
+        "solvent": "Ethylene glycol",
+        "reaction_time": "8 hours",
+        "text_snippet": "CdS nanoparticles were synthesized via solvothermal method using cadmium acetate in ethylene glycol at 200°C for 8 hours."
+    },
+    {
+        "category": "Metal Sulfides",
+        "precursor": "Molybdenum chloride",
+        "temperature": "250°C",
+        "pH": "5.0",
+        "method": "Chemical vapor deposition",
+        "solvent": "None",
+        "reaction_time": "2 hours",
+        "text_snippet": "MoS2 was prepared by chemical vapor deposition with molybdenum chloride at 250°C and pH 5.0 for 2 hours."
+    },
+    {
+        "category": "Metal-Organic Frameworks",
+        "precursor": "Zinc nitrate, terephthalic acid",
+        "temperature": "120°C",
+        "pH": "Not specified",
+        "method": "Solvothermal",
+        "solvent": "DMF",
+        "reaction_time": "24 hours",
+        "text_snippet": "MOF-5 was synthesized using zinc nitrate and terephthalic acid in DMF via solvothermal method at 120°C for 24 hours."
+    },
+    {
+        "category": "Metal-Organic Frameworks",
+        "precursor": "Copper nitrate, trimesic acid",
+        "temperature": "110°C",
+        "pH": "Not specified",
+        "method": "Microwave-assisted",
+        "solvent": "DMF",
+        "reaction_time": "1 hour",
+        "text_snippet": "HKUST-1 was prepared via microwave-assisted synthesis using copper nitrate and trimesic acid in DMF at 110°C for 1 hour."
+    },
+    {
+        "category": "Carbon-based",
+        "precursor": "Methane",
+        "temperature": "900°C",
+        "pH": "Not applicable",
+        "method": "Chemical vapor deposition",
+        "solvent": "None",
+        "reaction_time": "3 hours",
+        "text_snippet": "Graphene was synthesized by chemical vapor deposition using methane at 900°C for 3 hours."
+    },
+    {
+        "category": "Carbon-based",
+        "precursor": "Glucose",
+        "temperature": "800°C",
+        "pH": "Not applicable",
+        "method": "Pyrolysis",
+        "solvent": "None",
+        "reaction_time": "4 hours",
+        "text_snippet": "Carbon quantum dots were prepared via pyrolysis of glucose at 800°C for 4 hours."
+    },
+    {
+        "category": "Polymeric Nanomaterials",
+        "precursor": "Styrene",
+        "temperature": "70°C",
+        "pH": "Not specified",
+        "method": "Emulsion polymerization",
+        "solvent": "Water",
+        "reaction_time": "6 hours",
+        "text_snippet": "Polystyrene nanoparticles were synthesized by emulsion polymerization of styrene in water at 70°C for 6 hours."
+    },
+    {
+        "category": "Polymeric Nanomaterials",
+        "precursor": "Chitosan",
+        "temperature": "50°C",
+        "pH": "5.0",
+        "method": "Electrospinning",
+        "solvent": "Acetic acid",
+        "reaction_time": "2 hours",
+        "text_snippet": "Chitosan nanofibers were prepared via electrospinning in acetic acid at 50°C and pH 5.0 for 2 hours."
+    },
+    {
+        "category": "Pure Metals / Alloys",
+        "precursor": "Gold chloride",
+        "temperature": "25°C",
+        "pH": "Not specified",
+        "method": "Chemical reduction",
+        "solvent": "Water",
+        "reaction_time": "1 hour",
+        "text_snippet": "Gold nanoparticles were synthesized by chemical reduction of gold chloride in water at 25°C for 1 hour."
+    },
+    {
+        "category": "Pure Metals / Alloys",
+        "precursor": "Silver nitrate",
+        "temperature": "60°C",
+        "pH": "8.0",
+        "method": "Chemical reduction",
+        "solvent": "Water",
+        "reaction_time": "30 minutes",
+        "text_snippet": "Silver nanoparticles were prepared by chemical reduction of silver nitrate in water at 60°C and pH 8.0 for 30 minutes."
+    }
+]
